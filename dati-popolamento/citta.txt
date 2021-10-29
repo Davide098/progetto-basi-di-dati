@@ -1,4 +1,0 @@
-Roma|    2873000 |IT
-Perugia| 166676  |IT
-Bologna| 388367  |IT
-Milano|  1352000 |IT
