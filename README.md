@@ -1,6 +1,6 @@
 # progetto-basi-di-dati
 
-<b>NOME</b>: Davide Maria
+NOME: Davide Maria
 COGNOME: Mantione
 MATRICOLA: 303391
 
