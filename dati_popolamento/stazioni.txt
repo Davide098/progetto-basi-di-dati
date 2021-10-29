@@ -1,0 +1,9 @@
+Tiburtina|Roma|cat.1
+Fontivegge|Perugia|cat.1
+Ponte San Giovanni|Perugia|cat.1
+Sant 'Anna|Perugia|cat.1
+Borgo Panigale|Bologna|cat.1
+Casteldebole|Bologna|cat.1
+Corticella|Bologna|cat.1
+stazione #1|Roma|regionale
+stazione #2|Roma|regionale
